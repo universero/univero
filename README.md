@@ -36,4 +36,4 @@
   </table>
 
 <br>
-![](https://raw.githubusercontent.com/universero/univero/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/universero/univero/blob/main/assets/github-contribution-grid-snake.svg)
